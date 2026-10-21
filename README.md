@@ -35,5 +35,5 @@ A simple, colorful, and interactive memory matching game built with Vanilla Java
 
 ## 👤 Author
 
-Ankur 
+Ankur Deep Konch
 
