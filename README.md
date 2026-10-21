@@ -1,8 +1,8 @@
 # 🧠 Memory Card Game
 
-A simple, colorful, and interactive memory matching game built with Vanilla JavaScript, HTML, and CSS. Test your memory by finding all the matching emoji pairs!
+A simple, colorful, and interactive memory matching game built with Vanilla JavaScript, HTML & CSS. Test your memory by finding all the matching emoji pairs!
 
-[**🔗 Play the Live Game Here**](https://flip-game-adk.netlify.app/) *(Replace `#` with your actual hosting link)*
+[**🔗 Play the Live Game Here**](https://flip-game-adk.netlify.app/) 
 
 ## 🎮 How to Play
 
